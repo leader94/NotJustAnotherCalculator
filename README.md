@@ -20,8 +20,7 @@ We wanted to create a calculator that has an intuitive design, understands short
  - Dual theme
 ----------
 ## Demo
-![Not Just Another Calculator](https://drive.google.com/file/d/1esSxWDArfMUt9JhtHCMC__72YKCOHovy/view?usp=sharing)
-
+![Not Just Another Calculator](https://thumbs2.imgbox.com/e0/83/kXHIaQOv_t.gif)
 
 
 > Written with [StackEdit](https://stackedit.io/).
